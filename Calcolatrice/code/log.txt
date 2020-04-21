@@ -1,0 +1,155 @@
+
+
+SERVER APERTO -------------------------- 21 : 18 : 41 ----- 28 - Marzo - 2020
+Utente 1 connesso		21 : 18 : 46		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 543255.00 e 3453252352.00 e come operazione la Addizione, risultato 3453795584.00		21 : 18 : 51		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 234.00 e 42.00 e come operazione la Sottrazione, risultato 192.00		21 : 19 : 5		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 19 : 7		28 - Marzo - 2020
+Utente 2 connesso		21 : 19 : 28		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 234.00 e 23423.00 e come operazione la Addizione, risultato 23657.00		21 : 19 : 32		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 4543.00 e 2524.00 e come operazione la Addizione, risultato 7067.00		21 : 19 : 43		28 - Marzo - 2020
+Utente 2 disconnesso		21 : 19 : 45		28 - Marzo - 2020
+SERVER CHIUSO -------------------------- 21 : 20 : 9 ----- 28 - Marzo - 2020
+
+
+
+
+SERVER APERTO -------------------------- 21 : 24 : 7 ----- 28 - Marzo - 2020
+Utente 1 connesso		21 : 24 : 13		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 3423423.00 e 2342343168.00 e come operazione la Addizione, risultato 2345766656.00		21 : 24 : 17		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 25 : 6		28 - Marzo - 2020
+Utente 2 connesso		21 : 25 : 11		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 23423.00 e 23423.00 e come operazione la Addizione, risultato 46846.00		21 : 25 : 15		28 - Marzo - 2020
+Utente 2 disconnesso		21 : 25 : 51		28 - Marzo - 2020
+Utente 1 connesso		21 : 25 : 54		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 23523.00 e 32423.00 e come operazione la Addizione, risultato 55946.00		21 : 25 : 58		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 223423.00 e 23.00 e come operazione la Sottrazione, risultato 223400.00		21 : 26 : 9		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 32.00 e 3.00 e come operazione la Divisione, risultato 10.67		21 : 26 : 29		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 26 : 41		28 - Marzo - 2020
+Utente 2 connesso		21 : 27 : 20		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 43.00 e 2.00 e come operazione la Addizione, risultato 45.00		21 : 27 : 32		28 - Marzo - 2020
+Utente 2 disconnesso		21 : 27 : 37		28 - Marzo - 2020
+Utente 1 connesso		21 : 29 : 51		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 34.00 e 123.00 e come operazione la Addizione, risultato 157.00		21 : 30 : 2		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 30 : 5		28 - Marzo - 2020
+Utente 2 connesso		21 : 30 : 40		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 234.00 e 324.00 e come operazione la Addizione, risultato 558.00		21 : 30 : 50		28 - Marzo - 2020
+Utente 2 disconnesso		21 : 30 : 58		28 - Marzo - 2020
+Utente 1 connesso		21 : 31 : 54		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 234.00 e 3.00 e come operazione la , risultato 0.00		21 : 31 : 56		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 32 : 0		28 - Marzo - 2020
+Utente 2 connesso		21 : 35 : 42		28 - Marzo - 2020
+Utente 2 ha scelto come elementi 34543.00 e 345.00 e come operazione la Addizione, risultato 34888.00		21 : 36 : 48		28 - Marzo - 2020
+Utente 2 disconnesso		21 : 36 : 54		28 - Marzo - 2020
+Utente 1 connesso		21 : 38 : 10		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 38 : 28		28 - Marzo - 2020
+Utente 2 connesso		21 : 38 : 51		28 - Marzo - 2020
+Utente 1 connesso		21 : 39 : 52		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 2134.00 e 4.00 e come operazione la Addizione, risultato 2138.00		21 : 41 : 28		28 - Marzo - 2020
+Utente 1 disconnesso		21 : 41 : 33		28 - Marzo - 2020
+Utente 3 connesso		21 : 54 : 40		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 42.00 e 3.00 e come operazione la Sottrazione, risultato 39.00		21 : 55 : 16		28 - Marzo - 2020
+Utente 3 disconnesso		21 : 56 : 19		28 - Marzo - 2020
+Utente 1 connesso		22 : 0 : 10		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 0 : 21		28 - Marzo - 2020
+Utente 3 connesso		22 : 1 : 31		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 32432.00 e 234.00 e come operazione la Addizione, risultato 32666.00		22 : 1 : 48		28 - Marzo - 2020
+Utente 3 disconnesso		22 : 1 : 57		28 - Marzo - 2020
+Utente 1 connesso		22 : 3 : 13		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 324.00 e 24.00 e come operazione la Addizione, risultato 348.00		22 : 3 : 29		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 3 : 35		28 - Marzo - 2020
+Utente 3 connesso		22 : 4 : 31		28 - Marzo - 2020
+Utente 3 disconnesso		22 : 5 : 51		28 - Marzo - 2020
+Utente 1 connesso		22 : 6 : 15		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 13 : 37		28 - Marzo - 2020
+Utente 3 connesso		22 : 13 : 39		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 234.00 e 234.00 e come operazione la Addizione, risultato 468.00		22 : 13 : 53		28 - Marzo - 2020
+Utente 3 disconnesso		22 : 13 : 57		28 - Marzo - 2020
+Utente 1 connesso		22 : 14 : 15		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 2.00 e 2.00 e come operazione la Addizione, risultato 4.00		22 : 14 : 23		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 14 : 42		28 - Marzo - 2020
+Utente 3 connesso		22 : 15 : 40		28 - Marzo - 2020
+Utente 3 disconnesso		22 : 16 : 41		28 - Marzo - 2020
+Utente 1 connesso		22 : 16 : 44		28 - Marzo - 2020
+Utente 1 ha scelto come elementi 234.00 e 234.00 e come operazione la Addizione, risultato 468.00		22 : 16 : 54		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 17 : 6		28 - Marzo - 2020
+Utente 3 connesso		22 : 17 : 31		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 324.00 e 234.00 e come operazione la Addizione, risultato 558.00		22 : 17 : 37		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 2342.00 e 34.00 e come operazione la Divisione, risultato 68.88		22 : 17 : 42		28 - Marzo - 2020
+Utente 3 ha scelto come elementi 234.00 e 234.00 e come operazione la Divisione, risultato 1.00		22 : 17 : 59		28 - Marzo - 2020
+Utente 3 disconnesso		22 : 18 : 0		28 - Marzo - 2020
+SERVER CHIUSO -------------------------- 22 : 19 : 4 ----- 28 - Marzo - 2020
+
+
+
+SERVER APERTO -------------------------- 22 : 29 : 27 ----- 28 - Marzo - 2020
+SERVER CHIUSO -------------------------- 22 : 29 : 29 ----- 28 - Marzo - 2020
+
+
+
+SERVER APERTO -------------------------- 22 : 29 : 37 ----- 28 - Marzo - 2020
+Utente 1 connesso		22 : 29 : 55		28 - Marzo - 2020
+Utente 1 disconnesso		22 : 29 : 57		28 - Marzo - 2020
+SERVER CHIUSO -------------------------- 22 : 30 : 2 ----- 28 - Marzo - 2020
+
+
+
+SERVER APERTO -------------------------- 17 : 21 : 25 ----- 29 - Marzo - 2020
+Utente 1 connesso		17 : 21 : 31		29 - Marzo - 2020
+Utente 1 ha scelto come elementi 324.00 e 234.00 e come operazione la Addizione, risultato 558.00		17 : 21 : 34		29 - Marzo - 2020
+Utente 2 connesso		17 : 21 : 40		29 - Marzo - 2020
+Utente 2 disconnesso		17 : 21 : 44		29 - Marzo - 2020
+Utente 1 disconnesso		17 : 21 : 46		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 17 : 21 : 51 ----- 29 - Marzo - 2020
+
+
+
+
+SERVER APERTO -------------------------- 18 : 11 : 37 ----- 29 - Marzo - 2020
+Utente 1 connesso		18 : 11 : 43		29 - Marzo - 2020
+Utente 1 disconnesso		18 : 11 : 52		29 - Marzo - 2020
+Utente 2 connesso		18 : 12 : 3		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 18 : 12 : 5 ----- 29 - Marzo - 2020
+
+
+
+
+SERVER APERTO -------------------------- 18 : 15 : 35 ----- 29 - Marzo - 2020
+Utente 1 connesso		18 : 15 : 44		29 - Marzo - 2020
+Utente 2 connesso		18 : 15 : 46		29 - Marzo - 2020
+Utente 3 connesso		18 : 15 : 48		29 - Marzo - 2020
+Utente 1 ha scelto come elementi 23423.00 e 553465.00 e come operazione la Sottrazione, risultato -530042.00		18 : 15 : 55		29 - Marzo - 2020
+Utente 2 ha scelto come elementi 324.00 e 5.00 e come operazione la Addizione, risultato 329.00		18 : 16 : 6		29 - Marzo - 2020
+Utente 2 disconnesso		18 : 16 : 8		29 - Marzo - 2020
+Utente 3 ha scelto come elementi 43.00 e 2.00 e come operazione la Sottrazione, risultato 41.00		18 : 16 : 16		29 - Marzo - 2020
+Utente 3 disconnesso		18 : 16 : 20		29 - Marzo - 2020
+Utente 1 disconnesso		18 : 16 : 25		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 18 : 16 : 26 ----- 29 - Marzo - 2020
+
+
+
+
+SERVER APERTO -------------------------- 18 : 18 : 47 ----- 29 - Marzo - 2020
+Utente 1 connesso		18 : 18 : 53		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 18 : 18 : 57 ----- 29 - Marzo - 2020
+
+
+Utente 2 connesso		18 : 19 : 0		29 - Marzo - 2020
+Utente 1 ha scelto come elementi 34.00 e 234.00 e come operazione la Sottrazione, risultato -200.00		18 : 19 : 5		29 - Marzo - 2020
+Utente 1 disconnesso		18 : 19 : 10		29 - Marzo - 2020
+Utente 2 ha scelto come elementi 324.00 e 234.00 e come operazione la Addizione, risultato 558.00		18 : 19 : 25		29 - Marzo - 2020
+Utente 2 disconnesso		18 : 19 : 26		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 18 : 19 : 30 ----- 29 - Marzo - 2020
+
+
+
+
+SERVER APERTO -------------------------- 18 : 21 : 13 ----- 29 - Marzo - 2020
+Utente 1 connesso		18 : 21 : 17		29 - Marzo - 2020
+Utente 1 ha scelto come elementi 324.00 e 234.00 e come operazione la Addizione, risultato 558.00		18 : 21 : 19		29 - Marzo - 2020
+Utente 1 disconnesso		18 : 21 : 20		29 - Marzo - 2020
+SERVER CHIUSO -------------------------- 18 : 21 : 28 ----- 29 - Marzo - 2020
+
+
+
+
